@@ -2,10 +2,14 @@
 
 ## Steps to run the project
 
-'''bash
+```bash
 conda create -n medicalChat python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate medicalChat
-'''
+```
+
+```bash
+pip install -r requirements.txt
+```
